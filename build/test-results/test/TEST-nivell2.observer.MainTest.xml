@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nivell2.observer.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-04T12:32:26" hostname="MacBook-Air-de-test.local" time="0.024">
+  <properties/>
+  <testcase name="testObserver()" classname="nivell2.observer.MainTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
